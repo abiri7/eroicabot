@@ -2,7 +2,7 @@
 
 #### Your name
 
-ABIR ISLAM
+ABIR ISLAM, PARTNER IS PHUOC NGUYEN.
 
 #### Your section leader's name
 
