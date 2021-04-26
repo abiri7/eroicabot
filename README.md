@@ -1,5 +1,7 @@
 # eroicabot
-A discord bot built with Python. Demonstration: https://youtu.be/1wZFne4X2G4
+A discord bot built with Python. 
+
+Demonstration: https://youtu.be/1wZFne4X2G4
 
 The biggest difficulty in making this bot was actually trying to get it up 24/7. Making it so that heroku could actually deploy our bot was a challenge - specifically the requirements.txt file that is needed for the bot to be to deployed. We ultimately found out that there was a way to auto-generate the requirements file and with a few minor version tweaks (we ended up lowering the versions for some of the requirements as it generated versions that sometimes didn't make much sense).
 
